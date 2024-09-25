@@ -2,7 +2,7 @@
 **Skill Level:** Advanced <br>
 **Estimated Time:** 3 Months at 10-15 hrs/week
 ## Syllabus
-* Course 1: Introduction to Computer Vision
+### Course 1: Introduction to Computer Vision
 * Lesson 1: Introduction to Computer Vision
 * Lesson 2: Image Representation & Classification
 * Lesson 3: Convolutional Filters & Edge Detection
